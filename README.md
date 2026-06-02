@@ -4,7 +4,7 @@
 
 ### Computer Science Undergraduate | Aspiring Software Engineer
 
-<img src="https://komarev.com/ghpvc/?username=Shri-1019&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=Shri-1019&style=for-the-badge&color=blue)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 💫 About Me
+## 🔗 About Me
 
 - 🎓 BSc (Hons) Computer Science Student
 - 💻 Full Stack Development Enthusiast
@@ -36,9 +36,9 @@
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shri-1019&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shri-1019&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shri-1019&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shri-1019&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=Shri-1019&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Shri-1019&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -58,7 +58,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shri-1019&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shri-1019&theme=darkhub&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -88,16 +88,34 @@ Desktop task manager built with Python Tkinter.
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/shriabishek">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Shri-1019">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://sri-abishek-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-43B02A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Current Focus
+
+🚀 Full Stack Development
+
+📱 Flutter & Mobile Applications
+
+🌐 React & Spring Boot
+
+☁️ Azure Cloud Technologies
+
+📊 Data Analytics & Business Intelligence
 
 </div>
 
