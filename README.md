@@ -19,8 +19,11 @@
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,spring,firebase,flutter,git,github,html,css,vscode" />
+</p>
 #### Languages
 Python • Java • JavaScript • C# • SQL
 
