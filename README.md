@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Shri-1019&color=blue)
 <h1 align="center">Hi 👋, I'm Sri Abishek</h1>
 <h3 align="center">Computer Science Undergraduate | Aspiring Software Engineer</h3>
 
