@@ -1,10 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=Shri-1019&color=blue)
+
 <h1 align="center">Hi 👋, I'm Sri Abishek</h1>
-<h3 align="center">Computer Science Undergraduate | Aspiring Software Engineer</h3>
+
+<h3 align="center">
+Computer Science Undergraduate | Aspiring Software Engineer
+</h3>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 🎓 BSc (Hons) Computer Science Student
 
@@ -22,48 +26,58 @@
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,spring,firebase,flutter,git,github,html,css,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,spring,firebase,flutter,git,github,html,css,vscode,nodejs" />
 </p>
-#### Languages
-Python • Java • JavaScript • C# • SQL
-
-#### Frontend
-React • HTML • CSS
-
-#### Backend
-Spring Boot • Node.js
-
-#### Mobile
-Flutter • Firebase
-
-#### Tools
-Git • GitHub • Figma • Adobe Photoshop
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shri-1019&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shri-1019&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Shri-1019&theme=tokyonight" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Shri-1019&theme=tokyonight)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shri-1019&theme=tokyonight&row=1&column=6" />
+</p>
 
-### 🔥 GitHub Streak
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shri-1019&theme=tokyonight)
-
-### 💡 Current Focus
-
-- Full Stack Development
-- Mobile Application Development
-- Azure Cloud Technologies
-- Data Analytics
-- Software Engineering
-  
 ## 🌐 Connect With Me
 
-- Portfolio: https://sri-abishek-portfolio.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/shriabishek
-- GitHub: https://github.com/Shri-1019
+🔗 LinkedIn: https://www.linkedin.com/in/shriabishek
+
+🌍 Portfolio: https://sri-abishek-portfolio.vercel.app
+
+📧 Email: abishekbalendran004@gmail.com
+
+---
+
+## 💡 Current Focus
+
+🚀 Full Stack Development
+
+📱 Flutter & Mobile Apps
+
+🌐 React & Spring Boot
+
+☁️ Azure Cloud Technologies
+
+📊 Data Analytics & Business Intelligence
+
+---
+
+⭐ Check out my repositories and projects below!
