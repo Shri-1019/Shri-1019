@@ -45,6 +45,10 @@ Git • GitHub • Figma • Adobe Photoshop
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shri-1019&show_icons=true&theme=tokyonight)
 
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Shri-1019&theme=tokyonight)
+
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shri-1019&theme=tokyonight)
