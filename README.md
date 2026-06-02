@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sri Abishek</h1>
+<h3 align="center">Computer Science Undergraduate | Aspiring Software Engineer</h3>
 
-<!--
-**Shri-1019/Shri-1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BSc (Hons) Computer Science Student
+
+💻 Interested in Full Stack Development
+
+📱 Mobile App Development with Flutter
+
+🌐 Web Development with React & Spring Boot
+
+☁️ Learning Azure & Cloud Technologies
+
+📊 Exploring Data Analytics and Business Intelligence
+
+---
+
+### 🛠 Tech Stack
+
+#### Languages
+Python • Java • JavaScript • C# • SQL
+
+#### Frontend
+React • HTML • CSS
+
+#### Backend
+Spring Boot • Node.js
+
+#### Mobile
+Flutter • Firebase
+
+#### Tools
+Git • GitHub • Figma • Adobe Photoshop
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shri-1019&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shri-1019&theme=tokyonight)
+
+### 💡 Current Focus
+
+- Full Stack Development
+- Mobile Application Development
+- Azure Cloud Technologies
+- Data Analytics
+- Software Engineering
