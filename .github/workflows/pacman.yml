@@ -1,6 +1,8 @@
 name: Generate Pac-Man
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,6 +18,7 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Shri-1019
+          generate_dark: true
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4
