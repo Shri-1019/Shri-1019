@@ -41,11 +41,7 @@
 ---
 
 <div align="center">
-
-## 🔥 GitHub Streak
-
 <img src="https://streak-stats.demolab.com?user=Shri-1019&theme=tokyonight" />
-
 </div>
 
 ---
