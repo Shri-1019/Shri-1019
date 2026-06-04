@@ -34,8 +34,6 @@
 
 <div align="center">
 
-## 🎮 Pac-Man Contribution Graph
-
 <img src="https://raw.githubusercontent.com/Shri-1019/Shri-1019/output/pacman-contribution-graph-dark.svg">
 
 </div>
