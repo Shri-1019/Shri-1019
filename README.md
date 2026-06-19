@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Sri Abishek
+#  Srii' Here
 
 ### Computer Science Undergraduate | Aspiring Software Engineer
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shri-1019&style=for-the-badge&color=blue)
 
 </div>
 
